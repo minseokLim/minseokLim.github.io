@@ -1,10 +1,17 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: DB 성능품질 향상을 위한 모니터링 및 통제
+  dates: 2019.04.25 ~ 2019.04.26
+  qualification: 국가인적자원개발컨소시엄
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    "이틀 간의 짧은 강의이었지만 뜻 깊었던 강의 "
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    - 하드 파싱과 소프트 파싱의 차이를 알게 됨 -> <mark>PreparedStatement의 중요성</mark>
+    - 나의 예상과는 달리, Commit을 자주하지 않는 것이 속도가 더 빠르다는 걸 알게 됨.
+- layout: left
+  name: 웹개발 교육과정
+  dates: 2017.10 ~ 2018.03
+  qualification: 국가기간전략산업직종훈련
+  quote: >
+    "C언어, Java 기본 공부 및 정보처리기사 취득 후 강의 수강 "
+  description: | # this will include new lines to allow paragraphs
+    - Java, JSP, Spring Framework, MySQL, Oracle, Javascript, HTML 등 웹개발에 필요한 기본 내용들을 다룸.
