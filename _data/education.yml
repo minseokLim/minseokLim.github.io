@@ -6,7 +6,7 @@
     "이틀 간의 짧은 강의이었지만 뜻 깊었던 강의 "
   description: | # this will include new lines to allow paragraphs
     - 하드 파싱과 소프트 파싱의 차이를 알게 됨 -> <mark>PreparedStatement의 중요성</mark>
-    - 나의 예상과는 달리, Commit을 자주하지 않는 것이 속도가 더 빠르다는 걸 알게 됨.
+    - 예상과는 달리, Commit을 자주하지 않는 것이 속도가 더 빠르다는 걸 알게 됨.
 - layout: left
   name: 웹개발 교육과정
   dates: 2017.10 ~ 2018.03
