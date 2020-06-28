@@ -6,7 +6,7 @@
   # "이틀 간의 짧은 강의이었지만 뜻 깊었던 강의 "
   description: | # this will include new lines to allow paragraphs
     - 하드 파싱과 소프트 파싱의 차이를 알게 됨 -> <mark>PreparedStatement의 중요성</mark>
-    - 마이그레이션과 같은 대용량 데이터 처리 시, 프로시저를 사용하고 Commit을 자주하지 않는 것이 속도가 더 빠르다는 걸 알게 됨.
+    - 마이그레이션과 같은 대용량 데이터 처리 시, 프로시저를 사용하고 커밋을 자주하지 않는 것이 속도가 더 빠르다는 걸 알게 됨.
 - layout: left
   name: Learn Spring Boot in 100 Steps
   dates: 2019.04.09 ~ 2019.04.29
