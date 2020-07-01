@@ -24,7 +24,7 @@ github_username: minseokLim
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- 오랜 방황 끝에 <mark>천직</mark>을 찾은 늦깎이 개발자입니다. 3년차 Java 개발자이며 <mark>Spring Framework, MariaDB, Oracle, Tomcat, CentOS, Javascript</mark> 등을 활용한 풀스택 개발을 주로 해왔습니다. 코드 품질에 관심이 많고, 보다 효율적이면서 유지보수가 용이한 프로그래밍을 하기 위해 끊임없이 노력하고 공부하고 있습니다. 현재 <mark>Spring Boot, Spring Cloud, JPA, Travis CI, Nginx, AWS ECS</mark> 등을 활용한 <mark>마이크로서비스 아키텍처 개인 프로젝트</mark>를 진행하고 있습니다.
+ 오랜 방황 끝에 <mark>천직</mark>을 찾은 늦깎이 개발자입니다. 3년차 Java 개발자이며 <mark>Spring Framework, MariaDB, Oracle, Tomcat, CentOS, Javascript</mark> 등을 활용한 풀스택 개발을 주로 해왔습니다. 코드 품질에 관심이 많고, 보다 효율적이면서 유지보수가 용이한 프로그래밍을 하기 위해 끊임없이 노력하고 공부하고 있습니다. 현재 <mark>Spring Boot, Spring Cloud, JPA, Querydsl, Travis CI, Nginx, AWS ECS</mark> 등을 활용한 <mark>마이크로서비스 아키텍처 개인 프로젝트</mark>를 진행하고 있습니다.
 
   개인프로젝트 관련 URI:
     - REST API 문서 : <a href="https://api.mslim8803.shop/api-docs.html" target="_blank">https://api.mslim8803.shop/api-docs.html</a>
