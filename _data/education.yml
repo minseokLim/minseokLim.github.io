@@ -1,21 +1,4 @@
 - layout: left
-  name: DB 성능품질 향상을 위한 모니터링 및 통제
-  dates: 2019.04.25 ~ 2019.04.26
-  qualification: 국가인적자원개발컨소시엄
-  # quote: >
-  # "이틀 간의 짧은 강의이었지만 뜻 깊었던 강의 "
-  description: | # this will include new lines to allow paragraphs
-    - 하드 파싱과 소프트 파싱의 차이를 알게 됨 -> <mark>PreparedStatement의 중요성</mark>
-    - 마이그레이션과 같은 대용량 데이터 처리 시, 프로시저를 사용하고 커밋을 자주하지 않는 것이 속도가 더 빠르다는 걸 알게 됨.
-- layout: left
-  name: Learn Spring Boot in 100 Steps
-  dates: 2019.04.09 ~ 2019.04.29
-  qualification: <a href="https://www.udemy.com" class="link" target="_blank">https://www.udemy.com</a>
-  # quote: >
-  # "Spring Boot에 대한 기본적인 내용을 알게 해준 인터넷 강의 "
-  description: | # this will include new lines to allow paragraphs
-    - Spring Boot에 대한 기본적인 내용을 알게 해준 인터넷 강의
-- layout: left
   name: 웹개발 교육과정
   dates: 2017.10.30 ~ 2018.03.30
   qualification: 국가기간전략산업직종훈련
