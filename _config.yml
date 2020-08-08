@@ -43,6 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Study #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  - 이펙티브 자바 (저자 : 조슈아 블로크 / 인사이트)
   - 자바 ORM 표준 JPA 프로그래밍 (저자 : 김영한 / 에이콘출판)
   - 스프링 마이크로서비스 코딩 공작소 (저자 : 존 카넬 / 길벗)
   - 알고리즘 (<a href="https://github.com/minseokLim/Algorithm" target="_blank">https://github.com/minseokLim/Algorithm</a>&nbsp;&nbsp;<a href="https://www.acmicpc.net/user/mslim8803" target="_blank">https://www.acmicpc.net/user/mslim8803</a>)
