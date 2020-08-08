@@ -30,6 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
     - REST API 문서 : <a href="https://api.mslim8803.shop/api-docs.html" target="_blank">https://api.mslim8803.shop/api-docs.html</a>
     - 클라이언트 서버 : <a href="https://mslim8803.shop" target="_blank">https://mslim8803.shop</a>
     - Git 저장소 : <a href="https://github.com/minseokLim/ws-project" target="_blank">https://github.com/minseokLim/ws-project</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/minseokLim/ws-project-client" target="_blank">https://github.com/minseokLim/ws-project-client</a> 
+    - 시스템 구조 : <a href="https://minseoklim.github.io/images/project.PNG" target="_blank">https://minseoklim.github.io/images/project.PNG</a>
 
 # Projects Section
 # projects_title: Projects
