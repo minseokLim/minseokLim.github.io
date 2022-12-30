@@ -1,9 +1,0 @@
-- layout: left
-  name: 웹개발 교육과정
-  dates: 2017.10.30 ~ 2018.03.30
-  qualification: 국가기간전략산업직종훈련
-  # quote: >
-  # "C언어, Java 기본 공부 및 정보처리기사 취득 후 강의 수강 "
-  description: | # this will include new lines to allow paragraphs
-    - C언어, Java 기본 공부 및 정보처리기사 취득 후 강의 수강 (Full Time)
-    - Java, JSP, Spring Framework, MySQL, Oracle, Javascript, HTML 등 웹개발에 필요한 기본 내용들을 다룸.
