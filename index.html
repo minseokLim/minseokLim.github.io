@@ -3,8 +3,21 @@
     <head>
         <meta charset="UTF-8">
         <title>Page Title</title>
+        <script>
+            window.onload = function() {
+                fitFrameHeight();
+            }
+
+            window.addEventListener("resize", function() {
+                fitFrameHeight();
+            })
+
+            function fitFrameHeight() {
+                document.getElementById("pdf-frame").height = window.innerHeight - 32;
+            }
+        </script>
     </head>
     <body>
-        <iframe width="100%" src="./web/viewer.html?file=/web/compressed.tracemonkey-pldi-09.pdf"></iframe>
+        <iframe id="pdf-frame" width="100%" src="./web/viewer.html?file=/web/compressed.tracemonkey-pldi-09.pdf"></iframe>
     </body>
 </html>
